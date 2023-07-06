@@ -137,7 +137,7 @@ Do your best to answer the questions with specific details when required fully. 
 
 - Summarize the most salient parts of the data you are getting back (for example, Cat facts returns JSON that identifies the source of the cat fact, the cat fact, information about when the fact was created and updated, and the fact itself).
 
-> The summary of the data is openwyd.org can be used to find music from different music streaming platforms (ex: YouTube, Soundcloud,Spotify, etc.) and consolidate it in one place. You can also create playlists as well as search and download playlists created by other users on the streaming platforms. 
+> The summary of the data is openwyd.org can be used to find music from different music streaming platforms (ex: YouTube, Soundcloud,Spotify, etc.) and consolidate it in one place. You can also create playlists as well as search and download playlists created by other users on streaming platforms. 
 
 - How could you use this data in an application?
 
@@ -149,7 +149,7 @@ Do your best to answer the questions with specific details when required fully. 
 
 - What did you find challenging about the documentation?
 
-> I found the documentation challenging because it was a lot to read through. There was still a lot of the information that I did not quite understand what it meant and if I was even looking at the right documentation at first. After skimming through it more, I was able to identify and few familar elements.
+> I found the documentation challenging because it was a lot to read through. There was still a lot of the information that I did not quite understand what it meant and if I was even looking at the right documentation at first. After skimming through it more, I was able to identify a few familar elements.
 
 - Did the quality of the documentation impact your decision to use it?
 
@@ -161,7 +161,7 @@ Do your best to answer the questions with specific details when required fully. 
 
 - In your own words, summarize the request-response cycle.
 
-> The request-response cycle is similar to ordering food at a restaurant. You/client asks/requests the waiter/server to make your food order/request. The waiter/server then takes/listens for your food order/request. Lastly the waiter/server gives/response you/client your food order/
+> The request-response cycle is similar to ordering food at a restaurant. You/client asks/requests the waiter/server to make your food order/request. The waiter/server then takes/listens for your food order/request. Lastly the waiter/server gives/response you/client your food order/request.
 
 - In your own words, describe what an API is.
 
