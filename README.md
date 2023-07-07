@@ -13,36 +13,46 @@ Do your best to answer the questions with specific details when required fully. 
 
 - Which one did you choose? Provide the name and base URL
 
-> http://
+Coinbase since I have to actually google recent APIs
+>https://docs.cloud.coinbase.com/
+<!-- https://boardgamegeek.com/ -->
+
+<!-- https://api.nasa.gov -->
 
 - What purpose is this API for (education/fun and games/information/etc.)?
 
-> The purpose of this API is
+> The purpose of this API is educating consumers on their products through use of interactive elements 
 
 - What is the URL of the documentation?
 
-> http://
+> https://docs.cloud.coinbase.com/
+<!-- https://boardgamegeek.com/wiki/page/BGG_XML_API2 -->
+<!-- https://api.nasa.gov/techtransfer -->
 
 - What is the full URL of one endpoint?
 
-> http://
+> https://docs.cloud.coinbase.com/sign-in-with-coinbase/docs/api-users#data-endpoints
 
 - What is a sample of the data from the endpoint (copy and paste results from Postman, ok to shorten if it’s over 100 lines)? Be sure to wrap your answer in the correct formatting for code/JSON.
 
 ```json
-
+the body is empty so im not sure how this is going to work
 
 ```
 
 - What status code did you get back?
 
-> 00
+> 403 forbidden 🥲
+
+However, on the actual website, looking through `network` i see some 200 statuses. Though no tab with reqquest types 
 
 - Click on the **response** headers in Postman. What are the `Content-Type` and `Content-Length` (provide exact values)?
 
 > `Content-Type`
-
+this is nonexistent 
 > `Content-Length`
+🫠
+> `content encoding` is gzip though
 
 - Summarize the most salient parts of the data you are getting back (for example, Cat facts returns JSON that identifies the source of the cat fact, the cat fact, information about when the fact was created and updated, and the fact itself).
 
