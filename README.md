@@ -12,16 +12,23 @@ You will be working with a free API of your choice for this lab.
 Do your best to answer the questions with specific details when required fully. Writing about code clearly and thoroughly is a critical skill to practice. 
 
 - Which one did you choose? Provide the name and base URL
-
-> http://
+Brazilian Vehicles and Prices
+> http://deividfortuna.github.io/fipe/
 
 - What purpose is this API for (education/fun and games/information/etc.)?
+- Education 
 
 > The purpose of this API is
+The Fipe Table expresses average vehicle prices in the national market, serving only as a parameter for negotiations or evaluations.
+
+> The prices effectively practiced vary according to the region, conservation, color, accessories or any other factor that may influence the conditions of supply and demand for a specific vehicle.
 
 - What is the URL of the documentation?
 
-> http://
+https://github.com/deividfortuna/fipe
+>  https://parallelum.com.br/fipe/api/v1
+
+
 
 - What is the full URL of one endpoint?
 
